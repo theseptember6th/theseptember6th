@@ -1,55 +1,61 @@
-### Hi there, I'm Kristal Shrestha 👋  
-💡 Engineering Student | 💻 Aspiring Software Developer | ⚙️ Problem Solver  
+### Hi, I'm Kristal Shrestha 👋  
+💻 AI/ML Engineer | Backend Developer | Computer Engineering Student  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Engineering student with interest in **systems, automation, and software development**
-- 🔭 Currently working on: **Nyaya Sathi – Legal AI Assistant (RAG + FastAPI + LLMs)**
-- 🌱 Learning:  
-  - Backend development with **FastAPI & MySQL**  
-  - **RAG systems + LangChain + Hugging Face**  
-  - System design & scalable architectures  
-- ⚡ Interested in:  
-  - Embedded systems (8085, sensors, automation)  
-  - AI-powered applications  
-  - Real-world problem solving  
+- 🎓 Computer Engineering student at **Lalitpur Engineering College**
+- 💡 Focused on building **AI-powered and scalable backend systems**
+- 🧠 Strong foundation in:
+  - Data Structures & Algorithms  
+  - System Design  
+- ⚡ Passionate about solving **real-world problems using AI and data-driven solutions**
+
+---
+
+## 🔭 Current Focus
+- Building **AI Legal Assistant (Nyaya Sathi)** using RAG architecture  
+- Exploring **LLMs, LangChain, and production-ready AI systems**  
+- Improving backend skills with **FastAPI + databases**
 
 ---
 
 ## 🧠 Projects
-### 🔹 Nyaya Sathi (Legal AI Assistant)
-- AI chatbot focused on **GEDSI laws in Nepal**
-- Built using **RAG architecture**
-- Tech: FastAPI, LangChain, Hugging Face, MySQL
-- Features:
-  - Domain-restricted legal responses
-  - Chat memory & structured prompts
-  - Authentication system
 
-### 🔹 Pipe Cutting Automation System
-- Microprocessor-based system using **8085 + sensors + BLDC motor**
-- Automates pipe measurement & cutting process
-- Focus on reducing manual intervention in manufacturing
+### 🔹 AI Legal Chatbot
+**Tech:** Python, LangChain, NLP, SQLite, Fine-tuning  
+- Built domain-specific legal assistant using structured legal data  
+- Implemented **RAG (Retrieval-Augmented Generation)**  
+- Fine-tuned model for better contextual understanding  
+- Optimized responses with prompt engineering  
 
 ---
 
-## 🛠️ Skills
-<div style="display: inline_block"><br>
+### 🔹 Football Analysis System
+**Tech:** Python, YOLO, OpenCV  
+- Developed computer vision system for match analysis  
+- Player detection & tracking using YOLO  
+- Extracted performance metrics & tactical insights  
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+---
 
-</div>
+## 🛠️ Technical Skills
 
-### ⚙️ Tools & Technologies
-- FastAPI, MySQL
-- LangChain, Hugging Face
-- Git & GitHub
-- Linux (Dual OS user)
+### 💻 Languages
+Python | JavaScript | C | C++ | SQL  
+
+### 🧠 AI / ML
+NumPy | Pandas | Matplotlib | Scikit-learn  
+PyTorch | TensorFlow | NLP | Computer Vision  
+
+### ⚙️ Backend & Frameworks
+FastAPI | Flask | LangChain  
+
+### 🗄️ Databases
+MySQL | PostgreSQL | MongoDB | SQLite  
+
+### 🧰 Tools
+Git | Docker | Jupyter Notebook | Linux  
 
 ---
 
@@ -62,21 +68,14 @@
 
 ---
 
-## 📫 Contact Me
-<div> 
-  <a href="https://www.linkedin.com/in/kristal-shrestha-75552023a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto: shresthakristal42@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+## 📫 Contact
+- 📧 shresthakristal42@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/kristal-shrestha  
+- 💻 GitHub: https://github.com/theseptember6th  
 
 ---
 
-## ⚡ Fun Fact
-- I enjoy solving **real-world engineering problems** more than theoretical ones.
-
----
-
-![Snake animation](https://github.com/theseptember6th/KRISTAL_SHRESTHA/blob/output/github-contribution-grid-snake.svg)
+## ⚡ What Sets Me Apart
+- 🔹 Blend of **AI + Backend + System Design**
+- 🔹 Experience with **RAG and domain-specific LLMs**
+- 🔹 Focus on **real-world applications**, not just theory
