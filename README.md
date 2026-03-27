@@ -61,9 +61,8 @@ Git | Docker | Jupyter Notebook | Linux
 
 ## 📊 GitHub Stats
 <div>
-  <a href="https://github.com/theseptember6th/">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&langs_count=8&theme=dracula"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&theme=dracula&cache_seconds=1800"/>
 </div>
 
 ---
