@@ -151,11 +151,9 @@ passion    : Solving real problems with AI
 
 <div align="center">
 
-<a href="https://github.com/theseptember6th">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
-</a>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theseptember6th&theme=github_dark"/>
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theseptember6th&theme=github_dark"/>
 
 <br/>
 
