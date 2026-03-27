@@ -60,11 +60,11 @@ Git | Docker | Jupyter Notebook | Linux
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&theme=dracula&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&theme=dracula&hide_border=true"/>
 </div>
-
 ---
 
 ## 📫 Contact
