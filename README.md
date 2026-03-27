@@ -59,12 +59,20 @@ Git | Docker | Jupyter Notebook | Linux
 
 ---
 
+---
+
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&theme=dracula&hide_border=true"/>
-</div>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&hide_border=true" alt="Kristal's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseptember6th&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theseptember6th&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 ---
 
 ## 📫 Contact
