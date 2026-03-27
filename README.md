@@ -64,8 +64,8 @@ Git | Docker | Jupyter Notebook | Linux
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&hide_border=true" alt="Kristal's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseptember6th&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theseptember6th&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=theseptember6th&layout=compact&theme=dracula&hide_border=true" alt="Langs" />
 </p>
 
 <p align="center">
