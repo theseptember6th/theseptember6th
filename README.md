@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Header GIF -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kristal%20Shrestha&fontSize=52&fontColor=c9d1d9&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20CS%20Student&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kristal%20Shrestha&fontSize=52&fontColor=c9d1d9&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Computer%20Engineering%20Student&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/theseptember6th">
@@ -15,7 +15,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Backend%20Developer-%230d1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF&labelColor=161b22&color=21262d" />
 &nbsp;
-<img src="https://img.shields.io/badge/CS%20Student-%230d1117?style=for-the-badge&logo=academia&logoColor=58A6FF&labelColor=161b22&color=21262d" />
+<img src="https://img.shields.io/badge/Computer%20Engineering%20Student-%230d1117?style=for-the-badge&logo=graduationcap&logoColor=58A6FF&labelColor=161b22&color=21262d" />
 
 <br/><br/>
 
@@ -151,13 +151,15 @@ passion    : Solving real problems with AI
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<a href="https://github.com/theseptember6th">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theseptember6th&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseptember6th&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=theseptember6th&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com?user=theseptember6th&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 <br/>
 
