@@ -90,20 +90,6 @@ passion    : Solving real problems with AI
 
 ---
 
-## ⚡ What Sets Me Apart
-
-<div align="center">
-
-| 🧠 AI + Backend + System Design | 🔍 RAG + Domain-Specific LLMs | 🌍 Real-World Project Focus |
-|:---:|:---:|:---:|
-| End-to-end ownership from model to API | Building intelligent retrieval pipelines | Every project solves a tangible problem |
-
-</div>
-
-<br/>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
