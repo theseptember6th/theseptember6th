@@ -46,63 +46,6 @@ passion    : Solving real problems with AI
 
 ---
 
-## 🔭 Current Focus
-
-<table>
-  <tr>
-    <td>🧠</td>
-    <td><b>Nyaya Sathi</b> — AI Legal Assistant built on RAG architecture</td>
-  </tr>
-  <tr>
-    <td>🔗</td>
-    <td>Exploring <b>LLMs, LangChain</b>, and production-ready AI pipelines</td>
-  </tr>
-  <tr>
-    <td>⚙️</td>
-    <td>Deepening backend expertise with <b>FastAPI + databases</b></td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Legal Chatbot — Nyaya Sathi</h3>
-      <p>Domain-specific legal assistant with RAG, fine-tuning, and prompt engineering.</p>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLP-%23161b22?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-      <ul>
-        <li>Built domain-specific legal assistant</li>
-        <li>Implemented Retrieval-Augmented Generation (RAG)</li>
-        <li>Fine-tuned base model on legal corpus</li>
-        <li>Advanced prompt engineering pipeline</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚽ Football Analysis System</h3>
-      <p>Real-time player detection, tracking, and performance analysis using computer vision.</p>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-      <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
-      <ul>
-        <li>Player detection & multi-object tracking</li>
-        <li>Real-time performance metrics analysis</li>
-        <li>Computer vision pipeline from scratch</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -140,28 +83,6 @@ passion    : Solving real problems with AI
 **Tools & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,jupyter&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theseptember6th&theme=github_dark"/>
-&nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theseptember6th&theme=github_dark"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=theseptember6th&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theseptember6th&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
